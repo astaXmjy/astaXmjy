@@ -1,3 +1,4 @@
+![logo](https://github.com/astaXmjy/astaXmjy/blob/main/Asta%20black%20divider%20PNG%20by%20SoyNoel22%20on%20DeviantArt.png)
 <h1 align="center">Yo! Devil astaXmjy</h1>
 <h3 align="center">A Learner of machine learning and Artificial intelligence</h3>
 <img align="right" alt="Learner"width="400" src="https://pa1.narvii.com/7086/b6f722214a84fbe403ba3e2f9bf547f5c55cc9ber1-480-268_hq.gif"
